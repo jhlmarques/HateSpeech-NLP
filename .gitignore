@@ -163,3 +163,5 @@ cython_debug/
 
 # Hatespeech-NLP specific ignores
 data/
+runs/
+outputs/
